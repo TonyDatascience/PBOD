@@ -1,0 +1,13 @@
+name: PBOD
+title: PBOD
+username:
+account: dalysthaitool
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2361525
+bundleId: 4630489
+url: https://dalysthaitool.shinyapps.io/PBOD/
+when: 1621788286.02406
+lastSyncTime: 1621788286.0241
+asMultiple: FALSE
+asStatic: FALSE
